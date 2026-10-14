@@ -14,10 +14,10 @@
     "@grpc/proto-loader": "^0.7.0",
     "long": "^5.2.0",
     "nice-grpc": "^2.0.0",
-    "protobufjs": "^7.0.0"
+    "protobufjs": "^7.6.6"
   },
   "devDependencies": {
     "grpc-tools": "^1.11.2",
-    "ts-proto": "^1.121.5"
+    "ts-proto": "^1.181.2"
   }
 }
